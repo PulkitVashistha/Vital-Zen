@@ -1,6 +1,6 @@
-# Health Connect Sample
+# Vital Zen App
 
-This repository contains a sample to help you get started writing [Health Connect][health-connect] apps for Android.
+This repository contains a android app to help you get started writing [Health Connect][health-connect] apps for Android.
 
 ## Setup
 
